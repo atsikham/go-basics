@@ -1,0 +1,4 @@
+= Go basics
+
+This repository contains all work done in "Getting Started with Go" course
+with completed assignments.
